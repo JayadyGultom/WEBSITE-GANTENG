@@ -37,7 +37,6 @@ const Dashboard = () => {
       <div className="text-center">
         <h1 className="text-6xl font-normal tracking-tight p-5 text-black">
           {displayText}
-          <span className="animate-blink">|</span>
         </h1>
       </div>
     </div>
